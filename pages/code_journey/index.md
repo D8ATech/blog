@@ -2,6 +2,8 @@
 
 In 1981 I received my first computer, a Texas Instruments 99/4A, as a gift from my dad's cousin who was living with us at the time.  It was a Christmas present and it instantly changed my life forever.
 
+<!-- pagebreak -->
+
 I would rush home from school to spend time playing the games as first, but then I found the inline basic and I literally spent hours playing around and learning how to write simple programs.
 
 ```
