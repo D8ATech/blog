@@ -1,1 +1,1 @@
-# The project that I created while leaning JavaScript
+# The projects that I created while leaning JavaScript
